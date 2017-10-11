@@ -7,15 +7,8 @@ import Commons from "./lib/commons.js";
 import styles from "../style/app.js";
 import config from "./config/app.js";
 
-const sampleStreamURLs = [
-  require("../image/sample-image-1.jpg"),
-  require("../image/sample-image-2.jpg"),
-  require("../image/sample-image-3.jpg")
-]
-
-const sampleFullScreenURL = require("../image/sample-image-2.jpg");
-const backgroundImage= require("../image/IMG_0187.jpg");
-const logo= require("../image/Garena_Logo.png");
+const sampleFullScreenURL = require("../assets/sample-image-2.jpg");
+const backgroundImage= require("../assets/IMG_0187.jpg");
 
 const FRONT_CAMERA = true;
 const webRTCServices = require("./lib/services.js");
@@ -32,7 +25,7 @@ export default class App extends Component {
       //streamURLs: sampleStreamURLs,
       streams: [], //list of (id, url: friend Stream URL). Id = socketId
       joinState: "ready", //joining, joined
-      name: "Tho Q Luong"
+      name: "user" + Math.floor(Math.random() * 1000)
     }
   }
 
@@ -68,7 +61,6 @@ export default class App extends Component {
         null
       }
       {this.renderJoinContainer()}
-      {this.renderLogo()}
     </View>
   }
 
@@ -79,11 +71,7 @@ export default class App extends Component {
   renderJoinContainer() {
     if(this.state.joinState != "joined") {
       return <View style={styles.joinContainer}>
-        <Text style={styles.joinLabel}>Be the first to join this conversation</Text>
-        <TextInput style={styles.joinName}
-          placeholder={"Enter your name"} placeholderTextColor={"#888"}
-          onChangeText={(name) => this.setState({name})}
-          value={this.state.name} />
+        <Text style={styles.joinLabel}>Join the conversation</Text>
         <TouchableHighlight style={styles.joinButton}
             onPress={this.handleJoinClick.bind(this)}>
           <Text style={styles.joinButtonText}>{this.state.joinState == "ready" ? "Join" : "Joining..."}</Text>

@@ -1,0 +1,317 @@
+[
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "Test Project",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 1,
+        "durationUnit": 1,
+        "slug": "test-project",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    },
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "Feasibility study for chocolate fireguards",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 2,
+        "durationUnit": 1,
+        "slug": "test-project-owned-by-admin",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    },
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "Test Angular Project 1",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 2,
+        "durationUnit": 1,
+        "slug": "test-project-owned-by-admin",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    },
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "machi koro",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 2,
+        "durationUnit": 1,
+        "slug": "test-project-owned-by-admin",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    },
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "you were my september song",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 2,
+        "durationUnit": 1,
+        "slug": "test-project-owned-by-admin",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    },
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "no country for old projects 1",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 2,
+        "durationUnit": 1,
+        "slug": "test-project-owned-by-admin",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    },
+    {
+        "budgetType": 1,
+        "applicationCount": 0,
+        "functions": [
+            {
+                "name": "Analyst \/ Research",
+                "id": 2
+            }
+        ],
+        "languages": [
+        ],
+        "durationValue": 10,
+        "locationType": 1,
+        "createdAt": "2014-01-01T09:27:12+0000",
+        "calculatedBudget": {
+            "grossDayRate": 10000,
+            "netFixed": 83333,
+            "netDayRate": 8333,
+            "grossFixed": 100000
+        },
+        "background": "Lorem ipsum dolor sit amet.",
+        "industries": [
+            {
+                "name": "Banking",
+                "id": 2
+            }
+        ],
+        "name": "Sunday morning wake up its stormin",
+        "currency": {
+            "symbol": "\u00a3",
+            "id": 1
+        },
+        "locations": [
+            {
+                "name": "United Kingdom",
+                "id": 235
+            }
+        ],
+        "id": 2,
+        "durationUnit": 1,
+        "slug": "test-project-owned-by-admin",
+        "budget": 10000,
+        "updatedAt": "2017-06-19T12:10:53+0100",
+        "status": 100
+    }
+]
